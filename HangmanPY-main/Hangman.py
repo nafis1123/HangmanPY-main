@@ -244,4 +244,3 @@ class GameState:
                 break  # Exit the loop, effectively quitting the game
             else:
                 print("Invalid choice. Please try again.")  # If the input is invalid, prompt again
-                
