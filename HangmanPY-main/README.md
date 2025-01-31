@@ -1,0 +1,3 @@
+# HangmanPY
+
+The HangmanQuiz project is an interactive and educational game that combines quiz questions with hangman gameplay to create an engaging learning experience. The primary problem it addresses is providing an entertaining yet educational way to test and improve knowledge across various subjects, such as Science, History, and Geography (and more). The game features multiple choice questions, a limited number of lives, ASCII hangman art, a scoring system, a leaderboard, and a save/load feature that allows players to resume progress later. Players choose a category, answer questions letter-by-letter or guess the full answer. The process flow involves category selection, answering questions within a limited attempts, and score tracking
